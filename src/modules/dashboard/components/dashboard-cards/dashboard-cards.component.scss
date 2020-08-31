@@ -1,0 +1,20 @@
+@import 'styles/variables.scss';
+.primary{
+    background: linear-gradient(90deg, rgb(1, 119, 90) 0%, rgba(10,161,118,1) 35%, rgb(8, 161, 149) 100%) !important;
+    color: #fff
+}
+.secondary{
+    background: linear-gradient(0deg, rgb(245, 89, 50) 0%, rgb(250, 142, 53) 35%, rgb(248, 212, 5) 100%) !important;
+    color: #fff
+
+}
+.warning{
+    background: linear-gradient(360deg, rgb(24, 223, 6) 0%, rgb(33, 211, 42) 35%, rgb(90, 184, 90) 100%) !important;
+    color: #fff
+
+}
+.danger{
+    background: linear-gradient(360deg, rgb(6, 103, 133) 0%, rgb(2, 71, 128) 35%, rgb(1, 55, 80) 100%) !important;
+    color: #fff
+
+}

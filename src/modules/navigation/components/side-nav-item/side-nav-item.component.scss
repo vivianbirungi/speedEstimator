@@ -1,0 +1,21 @@
+@import 'styles/variables.scss';
+.sb-nav-link-icon{
+    margin-right: 30px !important;
+}
+.nav-link{
+    padding-top: 20px !important;
+    margin-top: 20px !important;
+    font-weight: bolder !important;
+    color: #fff !important;
+}
+.nav-link:hover{
+    color: rgba(7, 229, 245, 0.589) !important;
+    .sb-nav-link-icon{
+        font-weight: bolder !important;
+        color: rgba(7, 229, 245, 0.589) !important;
+    }
+}
+.sb-nav-link-icon{
+    font-weight: bolder !important;
+    color: #fff !important;
+}
